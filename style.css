@@ -1,0 +1,167 @@
+.p{
+    border-color: #9610FF;
+    border-radius: 20px;
+}
+p{
+    color: white;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+
+.ss{
+    color: rgb(0, 0, 0);
+}
+
+header{
+    display: flex;
+    gap: 50px;
+    background-color: blueviolet;
+    height: 100px;
+    width: 100%;
+}
+.img{
+    width: 5%;
+    height: 50%;
+}
+.div{
+    border-radius: 7px;
+    background: #0e0050;
+    height: 300px;
+    width: 1000px;
+    margin-left: 100px;
+}
+.bir{
+    gap: 400px;
+}
+.h1{
+    font-family: Abhaya Libre ExtraBold;
+font-size: 100px;
+}
+
+.h2{
+    font-family: Abhaya Libre ExtraBold;
+    font-size: 100px;
+    margin-top: -100px;
+}
+.iimg{
+    
+    width: 200px;
+    height: 200px;
+    margin-left: -200px;
+
+}
+.hide {
+    visibility: hidden;
+}
+
+.show {
+    visibility: visible;
+}
+
+.img {
+    position: relative;
+    max-width: 300px;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.show {
+    visibility: visible;
+}
+
+.img {
+
+    max-width: 300px;
+}
+
+.inside-text {
+    position: absolute;
+
+    top: 45%;
+    left: 20%;
+}
+
+
+#birinchi {
+    /* background: url('plaj.png') no-repeat; */
+
+    opacity: 0.1;
+
+
+
+    background-color: rgba(0, 0, 0, .5);
+
+    background-color: transparent;
+    width: 300px;
+    height: 300px;
+}
+.yyy{
+    width: 755px;
+    height: 407px;
+    flex-shrink: 0;
+}
+section{
+    margin-top: 20px;
+}
+.qqq{
+    width: 760px;
+    font-size: 50px;
+}
+.qolgani{
+    display: flex;
+    gap: 20px;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+}
+.iii{
+    margin-top: -300px;
+}
+button{
+    border-color: #9610FF;
+    color: #9610FF;
+    background-color: white;
+}
+.ttt{
+    color: black;
+}
+.kkk{
+    color: blue;
+    background-color: blue;
+    width: 30px;
+    height: 30px;
+}
+
+.div1{
+gap: 50px
+;   
+}
+.clas{
+    width: 365px;
+height: 202px;
+}
+.birinchi{
+    background-color: blue;
+}
+.son{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    text-align: center;
+}
+.footer{
+    border-color: #0e0050;
+}
+.bbb{
+    margin-top: -70px;
+}
+.footer-1{
+    gap: 300px;
+}
